@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1062878637006",
+    "project_id": "skillprof-ee36a",
+    "storage_bucket": "skillprof-ee36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062878637006:android:b5dcd611b8a3384e97999f",
+        "android_client_info": {
+          "package_name": "com.example.firstskillpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062878637006-1t2ka8qirkrrrn56d94m3h9nh0o22phf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2IYsdsPJaynFfCBf0HMJjvgBLXOG8ZIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062878637006-1t2ka8qirkrrrn56d94m3h9nh0o22phf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062878637006:android:52a9702b203ced3497999f",
+        "android_client_info": {
+          "package_name": "com.example.skillprof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062878637006-3ai9ge60iv0sh4tfdj13tubqrqe1sgtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skillprof",
+            "certificate_hash": "2b1149155ae2c717b58bd38cbff2e45ee7f6bfd1"
+          }
+        },
+        {
+          "client_id": "1062878637006-1t2ka8qirkrrrn56d94m3h9nh0o22phf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2IYsdsPJaynFfCBf0HMJjvgBLXOG8ZIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062878637006-1t2ka8qirkrrrn56d94m3h9nh0o22phf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
